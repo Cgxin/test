@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * 结果类..
+ * 结果类
  *123
  * @author peove
  * @date 2021-11-10-16:47
